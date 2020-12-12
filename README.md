@@ -1,7 +1,8 @@
 # Quality of Life vs. Purchasing Power and Property Price to Income Ratio ##
 
-## URL: 
-https://public.tableau.com/profile/mohammad.hassan.mohammad.khorasani#!/vizhome/Book1_15625274285300/Dashboard
+![Quality of life dashboard](https://github.com/mkhorasani/Quality_of_Life_Dashboard/blob/master/Quality%20of%20life%20dashboard.PNG?raw=true)
+
+To view this dashboard please refer to the following [link](https://public.tableau.com/profile/mohammad.hassan.mohammad.khorasani#!/vizhome/Book1_15625274285300/Dashboard).
 
 ## What is the question the dashboard is design to answer?
 This dashboard will help people decide which country they can live in by displaying the quality of life index  vs. the purchasing power index and property price to income ratio index for each country. Knowing how wealthy they are, they can determine the country with the highest quality of life that they would financially be able to live in.
